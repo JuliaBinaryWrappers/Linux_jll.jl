@@ -1,9 +1,9 @@
 [[Linux]]
 arch = "x86_64"
-git-tree-sha1 = "674cb480afa2b6d0e5b34b13d5af0c0efc25de5d"
+git-tree-sha1 = "fdd539e24f58bde044c60274f79ad721f8776897"
 libc = "glibc"
 os = "linux"
 
     [[Linux.download]]
-    sha256 = "8b95d3b33e74e2d1baa68fff45133e0938aa8320aeb784641479ab2e14105a12"
-    url = "https://github.com/JuliaBinaryWrappers/Linux_jll.jl/releases/download/Linux-v4.18.0+0/Linux.v4.18.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "373cdcb78c6cd5dd904c1c6d3a8cc98e4cc385169024b5d489c1db42f9f77a31"
+    url = "https://github.com/JuliaBinaryWrappers/Linux_jll.jl/releases/download/Linux-v5.3.0+0/Linux.v5.3.0.x86_64-linux-gnu.tar.gz"
