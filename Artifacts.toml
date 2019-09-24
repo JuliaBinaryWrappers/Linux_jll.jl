@@ -1,0 +1,9 @@
+[[Linux]]
+arch = "x86_64"
+git-tree-sha1 = "674cb480afa2b6d0e5b34b13d5af0c0efc25de5d"
+libc = "glibc"
+os = "linux"
+
+    [[Linux.download]]
+    sha256 = "8b95d3b33e74e2d1baa68fff45133e0938aa8320aeb784641479ab2e14105a12"
+    url = "https://github.com/JuliaBinaryWrappers/Linux_jll.jl/releases/download/Linux-v4.18.0+0/Linux.v4.18.0.x86_64-linux-gnu.tar.gz"
